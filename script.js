@@ -49,7 +49,7 @@ function getComputerChoice(){
                         computerScore = 0;
                         document.getElementById('human-score').textContent = humanScore;
                         document.getElementById('computer-score').textContent = computerScore;
-                    },1500)};
+                    },1000)};
       
             
     
